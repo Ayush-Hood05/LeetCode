@@ -10,4 +10,17 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayush-Hood05/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
