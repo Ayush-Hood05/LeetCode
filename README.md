@@ -15,6 +15,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [1389-create-target-array-in-the-given-order](https://github.com/Ayush-Hood05/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayush-Hood05/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayush-Hood05/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
