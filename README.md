@@ -13,6 +13,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush-Hood05/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Ayush-Hood05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ayush-Hood05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Hood05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ayush-Hood05/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
