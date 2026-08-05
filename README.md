@@ -12,6 +12,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0001-two-sum](https://github.com/Ayush-Hood05/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/Ayush-Hood05/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush-Hood05/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-Hood05/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ayush-Hood05/LeetCode/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Hood05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -62,6 +64,15 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Ayush-Hood05/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush-Hood05/LeetCode/tree/master/0283-move-zeroes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ayush-Hood05/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ayush-Hood05/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
