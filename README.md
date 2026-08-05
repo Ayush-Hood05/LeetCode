@@ -9,6 +9,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush-Hood05/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0189-rotate-array) |
@@ -23,6 +24,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush-Hood05/LeetCode/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Hood05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ayush-Hood05/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
