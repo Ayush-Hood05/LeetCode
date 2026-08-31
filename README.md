@@ -14,6 +14,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ayush-Hood05/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ayush-Hood05/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ayush-Hood05/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush-Hood05/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-Hood05/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Hood05/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ayush-Hood05/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Hood05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ayush-Hood05/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -38,11 +40,13 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayush-Hood05/LeetCode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayush-Hood05/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ayush-Hood05/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Hood05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -80,8 +84,13 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush-Hood05/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ayush-Hood05/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush-Hood05/LeetCode/tree/master/0053-maximum-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayush-Hood05/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
