@@ -21,6 +21,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0283-move-zeroes](https://github.com/Ayush-Hood05/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-Hood05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ayush-Hood05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayush-Hood05/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Hood05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ayush-Hood05/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayush-Hood05/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -39,6 +40,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ayush-Hood05/LeetCode/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayush-Hood05/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-Hood05/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
